@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://github.com/QuangD23AT250/QuangD23AT250/assets/145293304/a6baacf7-ef74-4fc1-9b0b-8420d162ba27)
 
 <!--
 **QuangD23AT250/QuangD23AT250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
